@@ -1,7 +1,20 @@
 <div align='center'>
 
 <h1>Music Player Website</h1>
-<p>This music website project is a comprehensive demonstration of modern web development concepts. Built using HTML, CSS, and JavaScript, the website features a responsive design, dynamic content, and a user-friendly interface. ✔ Some of the key features of the website include: ◻ A responsive design that adapts to different screen sizes and devices ◻ Dynamic content that is generated using JavaScript ◻ A user-friendly interface that is easy to navigate ◻ A modern aesthetic that is both visually appealing and engaging ◻ The website is a valuable resource for anyone interested in learning about modern web development. ◻ It is also a great example of how to use HTML, CSS, and JavaScript to create a high-quality website. ✔ Benefits: ◾ Learn about modern web development concepts ◾ See how to use HTML, CSS, and JavaScript to create a high-quality website ◾ Gain inspiration for your own web development projects</p>
+<p>This music website project is a comprehensive demonstration of modern web development concepts. Built using HTML, CSS, and JavaScript, the website features a responsive design, dynamic content, and a user-friendly interface.
+  
+  ✔ Some of the key features of the website include:
+  ◻ A responsive design that adapts to different screen sizes and devices 
+  ◻ Dynamic content that is generated using JavaScript 
+  ◻ A user-friendly interface that is easy to navigate 
+  ◻ A modern aesthetic that is both visually appealing and engaging 
+  ◻ The website is a valuable resource for anyone interested in learning about modern web development. 
+  ◻ It is also a great example of how to use HTML, CSS, and JavaScript to create a high-quality website.
+  
+  ✔ Benefits: 
+  ◾ Learn about modern web development concepts 
+  ◾ See how to use HTML, CSS, and JavaScript to create a high-quality website 
+  ◾ Gain inspiration for your own web development projects</p>
 
 <h4> <a href=https://omkar7075.github.io/musicwebsite/index.html>View Demo</a> <span> · </span> <a href="https://github.com/omkar7075/musicwebsite/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/omkar7075/musicwebsite/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/omkar7075/musicwebsite/issues"> Request Feature </a> </h4>
 

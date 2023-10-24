@@ -1,4 +1,4 @@
-<div align='center'>
+<div >
 
 <h1>Music Player Website</h1>
 <p>This music website project is a comprehensive demonstration of modern web development concepts. Built using HTML, CSS, and JavaScript, the website features a responsive design, dynamic content, and a user-friendly interface.
